@@ -1,0 +1,15 @@
+[project]
+name = "eth_balance"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "web3",
+    "python-dotenv",
+    "mcp[cli]",
+    "httpx>=0.28.1",
+    "transformers>=4.51.3",
+    "openai>=1.78.1",
+    "solana>=0.36.6",
+    "asyncio>=3.4.3",
+    "solders>=0.26.0",
+]
