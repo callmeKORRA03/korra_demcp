@@ -4,26 +4,17 @@ A high-performance, Claude-integrated MCP Server for checking real-time wallet b
 
 Supports Claude's @eth_balance.get_wallet_balance and @eth_balance.analyze_wallet_risk tools out of the box.
 
-📦 Features
-🔗 Multi-chain support (Ethereum, Polygon, Arbitrum, Solana)
-
-⚖️ Native token balances (ETH/MATIC/etc.) in real-time
-
-🤖 AI-powered wallet risk analysis (via HuggingFace FinBERT)
-
-🧠 Built-in MCP protocol for Claude AI Desktop
-
-🧪 Async + HTTPX + Web3 + Solana support
-
----
-
 ## 📦 Features
 
-- 🚀 FastAPI backend
-- 🌍 Supports Ethereum, Polygon, and Arbitrum
-- 💰 Converts balances to USD using CoinGecko API
-- 🔐 Secure via `.env` for Alchemy API keys
-- 🧪 Interactive Swagger docs for easy testing
+- 🔗 Multi-chain support (Ethereum, Polygon, Arbitrum, Solana)
+
+- ⚖️ Native token balances (ETH/MATIC/etc.) in real-time
+
+- 🤖 AI-powered wallet risk analysis (via HuggingFace FinBERT)
+
+- 🧠 Built-in MCP protocol for Claude AI Desktop
+
+- 🧪 Async + HTTPX + Web3 + Solana support
 
 ---
 
